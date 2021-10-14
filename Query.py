@@ -1,0 +1,8 @@
+s = "That I ever didi see. Dusty as the handle on the door"
+
+if "Dusty" in s:
+    print("QUERY FOUND ")
+
+#1- FIND OUT IF STRING IS CASE SENSITIVE
+#2 - WHAT IF A QUERY STRING APPERS TWICE IN THE STRING
+#3 - WRITE A PROGRAM THAT ASKS CONSOLES INPUT AND SEARCHES FOR A QUERY
